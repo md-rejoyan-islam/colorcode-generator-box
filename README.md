@@ -17,4 +17,4 @@
 * string.split()
 
 ### Live Website Link
-<a href="https://rejoyanislam.github.io/change-background-color-by-giving-input-or-click-all-code-change-into-uppercase-/">Click</a>
+<a href="https://rejoyanislam.github.io/colorcode-generator-box/">Click</a>
