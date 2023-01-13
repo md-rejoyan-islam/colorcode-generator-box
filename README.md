@@ -1,4 +1,4 @@
-## Change Background Color By Clicking Or Giving Input Hex Color code and color code show in Uppercase
+## Color Code Generator Box Using JavaScript
 ****
 
 ### Using Tools
@@ -13,6 +13,8 @@
 * oninput event handler
 * onmouseup event handler
 * .toString(16) [for decimal to hexadecimal code]
+* navigator.clipboard.writeText()
+* string.split()
 
 ### Live Website Link
 <a href="https://rejoyanislam.github.io/change-background-color-by-giving-input-or-click-all-code-change-into-uppercase-/">Click</a>
