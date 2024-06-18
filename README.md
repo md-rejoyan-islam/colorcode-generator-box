@@ -17,4 +17,4 @@
 * string.split()
 
 ### Live Website Link
-<a href="https://rejoyanislam.github.io/colorcode-generator-box/">Click</a>
+<a href="https://md-rejoyan-islam.github.io/colorcode-generator-box">Click</a>
